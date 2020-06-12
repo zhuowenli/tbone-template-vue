@@ -1,6 +1,6 @@
 # tbone-template-vue
 
-使用 vue 多端开发(小程序和Web)，基于 [kbone](https://github.com/zhuowenli/tbone) 的 element 和 render。
+使用 vue 多端开发(小程序和Web)，基于 [tbone](https://github.com/zhuowenli/tbone) 的 element 和 render。
 
 ## 特性
 
